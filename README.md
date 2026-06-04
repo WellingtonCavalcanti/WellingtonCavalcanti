@@ -28,7 +28,7 @@ README.md
 class DataScientist:
     def __init__(self):
         self.name       = "Wellington Cavalcanti"
-        self.role       = "Data Scientist & AI Engineer"
+        self.role       = "Data Scientist"
         self.location   = "Brasil 🇧🇷"
         self.focus      = ["Machine Learning", "Deep Learning", "LLMs"]
         self.currently  = "Building something awesome with AI 🤖"
